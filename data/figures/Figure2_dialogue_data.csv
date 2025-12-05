@@ -1,0 +1,9 @@
+measure,value,sd,ci_lower,ci_upper,n
+inter_phi_c,0.606,0.203,0.605,0.607,122913
+intra_phi_c,0.222,0.160,0.221,0.223,122913
+DI_mean,3.96,3.21,3.94,3.98,122913
+t_statistic,513.30,,,122912
+p_value,1.00E-300,,,
+cohens_d,2.11,0.02,2.09,2.13,
+epochs_DI_gt_1_pct,93.5,,,
+subjects_DI_gt_1,97,,,98

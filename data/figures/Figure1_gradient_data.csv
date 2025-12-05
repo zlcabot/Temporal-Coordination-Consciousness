@@ -1,0 +1,10 @@
+state,phi_c,phi_c_sd,n,reportable,order
+Propofol_Sedation,0.579,0.082,16,False,1
+Propofol_Awake,0.620,0.094,18,True,2
+Normal_Wake,0.684,0.083,10,True,3
+N1,0.706,0.033,10,Reduced,4
+N2,0.736,0.054,10,Reduced,5
+REM,0.741,0.078,10,Variable,6
+Meditators,0.743,0.058,24,True,7
+N3,0.793,0.045,10,False,8
+Cessation,0.948,0.032,5,False,9

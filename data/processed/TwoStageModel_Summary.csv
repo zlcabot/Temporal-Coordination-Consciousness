@@ -1,0 +1,10 @@
+state,phi_c,phi_c_sd,n,reportable,access_function,interpretation
+Propofol_Sedation,0.579,0.082,16,False,Blocked,Reduced coordination AND blocked access
+Propofol_Awake,0.620,0.094,18,True,Available,Normal coordination and access
+Normal_Wake,0.684,0.083,10,True,Available,Baseline coordination with access
+N1_Light_Sleep,0.706,0.033,10,Reduced,Impaired,Moderate coordination with reduced access
+N2_Sleep,0.736,0.054,10,Reduced,Impaired,Good coordination with impaired access
+Meditators,0.743,0.058,24,True,Enhanced,Trained elevation with enhanced access
+N3_Deep_Sleep,0.793,0.045,10,False,Blocked,MAXIMUM coordination but NO access
+REM_Sleep,0.741,0.078,10,Variable,Variable,High coordination with variable access
+Cessation,0.948,0.032,5,False,Blocked,Near-maximal coordination no content

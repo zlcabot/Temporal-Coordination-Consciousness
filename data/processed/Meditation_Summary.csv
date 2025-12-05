@@ -1,0 +1,9 @@
+group,state,n,phi_c_mean,phi_c_sd,phi_d_mean,phi_f_mean,tau,source
+Novice,Baseline,12,0.692,0.045,0.328,0.182,0.55,Delorme
+Novice,Meditation,12,0.718,0.052,0.342,0.195,0.57,Delorme
+Expert,Baseline,12,0.725,0.038,0.345,0.198,0.57,Delorme
+Expert,Meditation,12,0.768,0.041,0.368,0.225,0.61,Delorme
+Experienced,Baseline,13,0.712,0.048,0.335,0.188,0.56,Rishikesh
+Experienced,Meditation,13,0.758,0.045,0.358,0.218,0.61,Rishikesh
+Combined,Meditation,37,0.743,0.058,0.355,0.212,0.60,Combined
+Cessation,Cessation,5,0.948,0.032,0.482,0.485,1.01,Shinozuka

@@ -1,0 +1,34 @@
+cff-version: 1.2.0
+message: "If you use this software or data, please cite it as below."
+authors:
+  - family-names: "Cabot"
+    given-names: "Zayin"
+    orcid: "https://orcid.org/0000-0000-0000-0000"
+title: "Temporal Coordination Capacity Reveals Integration Without Reportability"
+version: 1.0.0
+date-released: 2025-01-01
+url: "https://github.com/[username]/Temporal-Coordination-Consciousness"
+repository-code: "https://github.com/[username]/Temporal-Coordination-Consciousness"
+license: MIT
+type: software
+keywords:
+  - consciousness
+  - temporal coordination
+  - EEG
+  - sleep
+  - meditation
+  - information theory
+  - two-stage model
+abstract: >-
+  Analysis code and data for investigating temporal coordination capacity
+  across consciousness states. Reveals that N3 deep sleep shows higher
+  coordination than wakefulness despite no reportable experience,
+  supporting a two-stage model of conscious access.
+preferred-citation:
+  type: article
+  authors:
+    - family-names: "Cabot"
+      given-names: "Zayin"
+  title: "Temporal Coordination Capacity Reveals Integration Without Reportability: A Two-Stage Model of Conscious Access"
+  journal: "Neuroscience of Consciousness"
+  year: 2025

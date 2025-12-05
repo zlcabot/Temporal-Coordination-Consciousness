@@ -1,0 +1,5 @@
+group,phi_c,phi_c_sd,tau,tau_sd,n,color
+Non-meditator,0.684,0.083,0.52,0.08,10,#808080
+Novice,0.718,0.052,0.57,0.06,12,#87CEEB
+Expert,0.768,0.041,0.61,0.05,12,#4169E1
+Cessation,0.948,0.032,1.01,0.03,5,#FFD700
