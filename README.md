@@ -195,6 +195,20 @@ If you use this code or data, please cite:
   doi = {}
 }
 ```
+### LZc Validation Analysis
+
+The file `data/processed/cons01_lzc_phi_c_results.csv` contains epoch-level data for the Lempel-Ziv complexity validation analysis demonstrating the double dissociation between signal complexity and temporal coordination.
+
+**Columns:**
+- `start_time`: Epoch start time in seconds from recording start
+- `stage`: Sleep stage (Wake, N1, N2, N3, REM)
+- `lzc`: Lempel-Ziv complexity (normalized, 0-1)
+- `phi_d`: Duration component (Φ_d)
+- `phi_f`: Frequency component (Φ_f)
+- `phi_c`: Coordination capacity (Φ_c)
+- `subject`: MESA subject identifier
+
+**Key Finding:** LZc shows Wake > N3 (d = 2.02) while Φ_c shows N3 > Wake (d = 0.68), confirming these measures capture different dimensions of neural organization.
 
 ## The Sentence to Remember
 
